@@ -17,3 +17,18 @@ pip install -r requirements.txt
 Run:
 
 streamlit run app.py
+
+
+## 📸 Project Preview
+
+### Home Page
+![Home](Screenshots/home.png)
+
+### Council Discussion
+![Council](Screenshots/dashboard.png)
+
+### Analytics Dashboard
+![Analytics](Screenshots/Analytics.png)
+
+### Decision History
+![History](Screenshots/History.png)
