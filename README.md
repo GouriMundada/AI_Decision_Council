@@ -28,7 +28,7 @@ streamlit run app.py
 ![Council](Screenshots/dashboard.png)
 
 ### Analytics Dashboard
-![Analytics](Screenshots/Analytics.png)
+![Analytics](Screenshots/analytics.png)
 
 ### Decision History
-![History](Screenshots/History.png)
+![History](Screenshots/history.png)
